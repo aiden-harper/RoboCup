@@ -126,5 +126,6 @@ async def main():
     
 #test_start_strike()
 # Run the main logic
-asyncio.run(main())
+#asyncio.run(main())
+
 
